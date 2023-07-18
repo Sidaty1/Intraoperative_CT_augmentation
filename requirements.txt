@@ -1,0 +1,10 @@
+numpy
+networkx
+nibabel
+voxelmorph
+slicer
+vedo
+vtk
+pandas
+tensorflow
+tqdm
